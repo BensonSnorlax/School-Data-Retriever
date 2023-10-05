@@ -1,0 +1,1 @@
+adr = input("What's your residential address? ")
